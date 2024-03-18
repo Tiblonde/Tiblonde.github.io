@@ -4,8 +4,8 @@ email: riccardo.graziosi97@gmail.com # email of site's author
 url: https://tiblonde.github.io/ # root address of the site
 baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  To set up individual site, I blindly skim some front-end tech but archieved little. 
-  Finally I just fork "minimalist Jekyll theme" as my reposity.
+  To set up individual site, I blindly skimmed some front-end tech but achieved little. 
+  Finally I just fork "minimalist Jekyll theme" as my repository.
   Low-efficiency.
 
 permalink: /:slug.html
