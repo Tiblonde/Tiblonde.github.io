@@ -5,27 +5,39 @@ entries:
   - title: info
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
+      - title: this github repo
+        url: https://github.com/Tiblonde/Tiblonde.github.io
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: All posts
+  - title: All posts-can see my recent trails
     post_list:
       limit: 5
       show_more: true
       show_more_text: See more posts...
       show_more_url: archive.html
 
+  - title: My study process one
+    post_list:
+      limit: 3
+      category: study1
+      show_more: ture
+      show_more_text: See more posts...
+      show_more_url: archive.html
+  
+  - title: My study process two
+    entries:
+      - title: I usually handle two or more task at one time
+        post_list:
+          limit: 3
+          category: study2
+          show_more: ture
+          show_more_text: See more posts...
+          show_more_url: archive.html
+
+
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
